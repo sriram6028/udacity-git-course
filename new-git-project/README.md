@@ -11,12 +11,8 @@ Filter by **city**, **month**, and **day of week** and view useful statistics:
 
 ---
 
-## 🚀 Features
+## Features
 
 - Interactive prompts (no command-line flags required)
 - Fast stats with `pandas`
 - Clean structure that’s easy to extend
-
----
-
-## 📁 Project Structure
