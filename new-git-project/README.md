@@ -16,3 +16,10 @@ Filter by **city**, **month**, and **day of week** and view useful statistics:
 - Interactive prompts (no command-line flags required)
 - Fast stats with `pandas`
 - Clean structure that’s easy to extend
+
+
+##Credits:
+https://github.com/udacity/post-your-work-project
+
+##Date created:
+19-03-2026
