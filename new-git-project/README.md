@@ -40,5 +40,3 @@ To run this project, you will need:
 
 # Credits:
 https://github.com/udacity/post-your-work-project
-
-
